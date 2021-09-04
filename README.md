@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=ffe8b8&height=300&section=header&text=Hi!%20I'm Somin🖐&fontSize=90&fontAlignY=50)
-
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=ffe8b8&height=300&section=header&text=Hi!%20I'm%20Somin&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
 
 <h3 align="center">💻 Tech Stack </h3>
 
